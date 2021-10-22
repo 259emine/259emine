@@ -2,8 +2,9 @@
 
 <!--
 **259emine/259emine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+merhaba ben emine 
 Here are some ideas to get you started:
+şuan PHP üzerinde çalışıyorum
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
